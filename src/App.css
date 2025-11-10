@@ -1,0 +1,35 @@
+/* Container principal aplicație */
+.app-content {
+  width: 100%; 
+  min-height: 100vh; 
+  display: flex;
+  flex-direction: column; 
+  align-items: stretch; /* permite ca grid-ul din secțiuni să ocupe lățimea completă */
+  padding-top: 50px; 
+}
+
+/* Stiluri pentru butonul explore */
+.explore-button {
+  background-color: #bdfabd; /* Verde deschis */
+  color: #333; 
+  padding: 8px 18px; 
+  font-size: 16px; 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  margin: 10px auto 0; 
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s; 
+}
+
+.explore-button .arrow {
+  margin-left: 8px; 
+  font-size: 14px; 
+  color: #333;
+}
+
+.explore-button:hover {
+  background-color: #a1cfa1; 
+}

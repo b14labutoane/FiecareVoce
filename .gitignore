@@ -1,0 +1,8 @@
+node_modules/
+dist/
+build/
+.DS_Storenode_modules/
+build/
+public/*.pdf
+.DS_Store
+src/assets/*.png
