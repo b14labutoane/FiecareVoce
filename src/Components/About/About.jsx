@@ -1,6 +1,8 @@
 import React from 'react';
 import Navbar from '../Navbar/Navbar';
 import './About.css';
+import iulia from '../../assets/iuliagg.jpeg';
+import luca from '../../assets/lucagg.jpeg'
 
 export default function About() {
   return (
@@ -16,7 +18,7 @@ export default function About() {
           <div className="founders-section">
 
             <div className="founder-card">
-              <img src="src/assets/iuliagg.jpeg" alt="Founder 1" />
+              <img src={iulia} alt="Founder 1" />
               <h3>Iulia Geambazu</h3>
               <p>
                 Bună! Sunt Geambazu Iulia, co-fondatoare a proiectului Fiecare Voce. 
@@ -27,7 +29,7 @@ export default function About() {
             </div>
 
             <div className="founder-card">
-              <img src="src/assets/lucagg.jpeg" alt="Founder 2" />
+              <img src={luca} alt="Founder 2" />
               <h3>Luca Georgescu</h3>
               <p>
                Sunt Luca Georgescu, co-fondator al proiectului Fiecare Voce. Sunt pasionat de graphic design, particip la olimpiade și mă implic în activități extrașcolare. 

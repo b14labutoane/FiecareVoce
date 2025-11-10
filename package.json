@@ -17,7 +17,8 @@
     "react-dom": "^19.1.0",
     "react-flip-page": "^1.6.4",
     "react-pdf": "^10.2.0",
-    "react-router-dom": "^7.9.5"
+    "react-router-dom": "^7.9.5",
+    "serve": "^14.2.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.30.1",
