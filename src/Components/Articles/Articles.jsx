@@ -5,52 +5,52 @@ import logo from "../../assets/logo.png";
 
 
 // Burse
-import burse1 from '../../assets/burse/burse1.png';
-import burse2 from '../../assets/burse/burse2.png';
-import burse3 from '../../assets/burse/burse3.png';
-import burse4 from '../../assets/burse/burse4.png';
-import burse5 from '../../assets/burse/burse5.png';
-import burse6 from '../../assets/burse/burse6.png';
-import burse7 from '../../assets/burse/burse7.png';
-import burse8 from '../../assets/burse/burse8.png';
-import burse9 from '../../assets/burse/burse9.png';
-import burse10 from '../../assets/burse/burse10.png';
-import burse11 from '../../assets/burse/burse11.png';
+import burse1 from '../../assets/burse/resized_burse00.png';
+import burse2 from '../../assets/burse/resized_burse01.png';
+import burse3 from '../../assets/burse/resized_burse02.png';
+import burse4 from '../../assets/burse/resized_burse03.png';
+import burse5 from '../../assets/burse/resized_burse04.png';
+import burse6 from '../../assets/burse/resized_burse05.png';
+import burse7 from '../../assets/burse/resized_burse06.png';
+import burse8 from '../../assets/burse/resized_burse07.png';
+import burse9 from '../../assets/burse/resized_burse08.png';
+import burse10 from '../../assets/burse/resized_burse09.png';
+import burse11 from '../../assets/burse/resized_burse10.png';
 
 // Edu
-import edu1 from '../../assets/edu/edu1.png';
-import edu2 from '../../assets/edu/edu2.png';
-import edu3 from '../../assets/edu/edu3.png';
-import edu4 from '../../assets/edu/edu4.png';
-import edu5 from '../../assets/edu/edu5.png';
-import edu6 from '../../assets/edu/edu6.png';
-import edu7 from '../../assets/edu/edu7.png';
+import edu1 from '../../assets/edu/resized_edu0.png';
+import edu2 from '../../assets/edu/resized_edu1.png';
+import edu3 from '../../assets/edu/resized_edu2.png';
+import edu4 from '../../assets/edu/resized_edu3.png';
+import edu5 from '../../assets/edu/resized_edu4.png';
+import edu6 from '../../assets/edu/resized_edu5.png';
+import edu7 from '../../assets/edu/resized_edu6.png';
 
 // Poli
-import poli1 from '../../assets/poli/poli1.png';
-import poli2 from '../../assets/poli/poli2.png';
-import poli3 from '../../assets/poli/poli3.png';
-import poli4 from '../../assets/poli/poli4.png';
-import poli5 from '../../assets/poli/poli5.png';
-import poli6 from '../../assets/poli/poli6.png';
-import poli7 from '../../assets/poli/poli7.png';
-import poli8 from '../../assets/poli/poli8.png';
+import poli1 from '../../assets/poli/resized_poli0.png';
+import poli2 from '../../assets/poli/resized_poli1.png';
+import poli3 from '../../assets/poli/resized_poli2.png';
+import poli4 from '../../assets/poli/resized_poli3.png';
+import poli5 from '../../assets/poli/resized_poli4.png';
+import poli6 from '../../assets/poli/resized_poli5.png';
+import poli7 from '../../assets/poli/resized_poli6.png';
+import poli8 from '../../assets/poli/resized_poli7.png';
 
 // Isto
-import isto1 from '../../assets/isto/isto1.png';
-import isto2 from '../../assets/isto/isto2.png';
-import isto3 from '../../assets/isto/isto3.png';
-import isto4 from '../../assets/isto/isto4.png';
-import isto5 from '../../assets/isto/isto5.png';
-import isto6 from '../../assets/isto/isto6.png';
-import isto7 from '../../assets/isto/isto7.png';
-import isto8 from '../../assets/isto/isto8.png';
-import isto9 from '../../assets/isto/isto9.png';
-import isto10 from '../../assets/isto/isto10.png';
-import isto11 from '../../assets/isto/isto11.png';
-import isto12 from '../../assets/isto/isto12.png';
-import isto13 from '../../assets/isto/isto13.png';
-import isto14 from '../../assets/isto/isto14.png';
+import isto1 from '../../assets/isto/resized_isto0.png';
+import isto2 from '../../assets/isto/resized_isto1.png';
+import isto3 from '../../assets/isto/resized_isto2.png';
+import isto4 from '../../assets/isto/resized_isto3.png';
+import isto5 from '../../assets/isto/resized_isto4.png';
+import isto6 from '../../assets/isto/resized_isto5.png';
+import isto7 from '../../assets/isto/resized_isto6.png';
+import isto8 from '../../assets/isto/resized_isto7.png';
+import isto9 from '../../assets/isto/resized_isto8.png';
+import isto10 from '../../assets/isto/resized_isto9.png';
+import isto11 from '../../assets/isto/resized_isto10.png';
+import isto12 from '../../assets/isto/resized_isto11.png';
+import isto13 from '../../assets/isto/resized_isto12.png';
+import isto14 from '../../assets/isto/resized_isto13.png';
 
 
 const Articles = () => {
